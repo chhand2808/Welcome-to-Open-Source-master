@@ -1056,7 +1056,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/chhand2808">
-                    <img src="https://avatars.githubusercontent.com/u/92355919?v=4" width="100px;" alt="Chhand Chaughule"/>
+                    <img src="https://avatars.githubusercontent.com/u/92355919?v=4" width="100px;" alt="Chhand  Kunal Chaughule"/>
                     <br />
                     <sub><b>Chhand Kunal Chaughule</b></sub>
                 </a>
